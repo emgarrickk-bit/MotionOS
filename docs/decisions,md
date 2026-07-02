@@ -1,0 +1,23 @@
+# Design Decisions
+
+## Decision 001
+
+Date:
+2026-07-02
+
+Decision:
+Use Raspberry Pi OS Bookworm instead of Trixie.
+
+Reason:
+MediaPipe supports Python 3.11 but not Python 3.13.
+
+Alternatives Considered:
+- Trixie + pyenv
+- Ubuntu
+- Docker
+
+Final Choice:
+Bookworm
+
+Outcome:
+Successful MediaPipe installation.
