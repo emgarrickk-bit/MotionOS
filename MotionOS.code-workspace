@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "firmware/Genesis"
+		},
+		{
+			"path": "firmware/third_party/TTGO_TWatch_Library-t-watch-s3"
+		}
+	],
+	"settings": {}
+}
